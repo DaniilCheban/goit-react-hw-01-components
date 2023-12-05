@@ -1,8 +1,7 @@
-import {Profile} from './Profile'; 
-import './Profile.css'; 
+import { Profile } from './Profile';
+import './Profile.css';
 import user from 'components/user.json';
 const App = () => {
-
   return (
     <div className="app">
       <Profile
@@ -16,4 +15,4 @@ const App = () => {
   );
 };
 
-export  {App};
+export { App };

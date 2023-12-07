@@ -1,0 +1,16 @@
+/* TransactionHistory.css (або імпортуйте ці стилі вже існуючий файл) */
+.transaction_history {
+  width: 400px;
+  margin-top: 20px;
+}
+
+.transaction_history th,
+.transaction_history td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.transaction_history th {
+  background-color: skyblue;
+}
